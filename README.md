@@ -1,4 +1,4 @@
 # shraddhadii
 learning git hub
 <br>
-author --aditya karki
+author --aditya karki and rishab
